@@ -5,7 +5,7 @@ Dokumentasi Progres dan Proyek SCIT Divisi AI
 
 - Fase 1 - Pengantar Data dan Statiska Dasar : https://github.com/Gahyaka/SCIT_AI/tree/Fase-1---Pengantar-Data-%26-Statiska-Dasar
 
-- Fase 2 - Analisis dan Model Statistik Sederhana
+- Fase 2 - Analisis dan Model Statistik Sederhana : https://github.com/MUHAMMADAPZIRZARAFI/Fase-2---Analisis-dan-Model-Statistik-Sederhana..git
 
 - Fase 3 - Machine Learning Dasar
 
